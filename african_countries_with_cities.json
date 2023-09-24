@@ -1,0 +1,415 @@
+[
+    {
+        "name": "British Indian Ocean Territory",
+        "capital": "Diego Garcia",
+        "currency": "United States dollar",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Botswana",
+        "capital": "Gaborone",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Eritrea",
+        "capital": "Asmara",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Réunion",
+        "capital": "Saint-Denis",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Somalia",
+        "capital": "Mogadishu",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Mauritius",
+        "capital": "Port Louis",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Senegal",
+        "capital": "Dakar",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "South Africa",
+        "capital": "Pretoria",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Ghana",
+        "capital": "Accra",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Malawi",
+        "capital": "Lilongwe",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Gabon",
+        "capital": "Libreville",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Gambia",
+        "capital": "Banjul",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Kenya",
+        "capital": "Nairobi",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "capital": "Jamestown",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Comoros",
+        "capital": "Moroni",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Tunisia",
+        "capital": "Tunis",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "DR Congo",
+        "capital": "Kinshasa",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Chad",
+        "capital": "N'Djamena",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "South Sudan",
+        "capital": "Juba",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Niger",
+        "capital": "Niamey",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Guinea",
+        "capital": "Conakry",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Central African Republic",
+        "capital": "Bangui",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Seychelles",
+        "capital": "Victoria",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Guinea-Bissau",
+        "capital": "Bissau",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Ivory Coast",
+        "capital": "Yamoussoukro",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Western Sahara",
+        "capital": "El Aaiún",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Togo",
+        "capital": "Lomé",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Egypt",
+        "capital": "Cairo",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "São Tomé and Príncipe",
+        "capital": "São Tomé",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Republic of the Congo",
+        "capital": "Brazzaville",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Libya",
+        "capital": "Tripoli",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Mali",
+        "capital": "Bamako",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Cameroon",
+        "capital": "Yaoundé",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Lesotho",
+        "capital": "Maseru",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Benin",
+        "capital": "Porto-Novo",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Liberia",
+        "capital": "Monrovia",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Djibouti",
+        "capital": "Djibouti",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Equatorial Guinea",
+        "capital": "Malabo",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Sierra Leone",
+        "capital": "Freetown",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Sudan",
+        "capital": "Khartoum",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Mauritania",
+        "capital": "Nouakchott",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Zimbabwe",
+        "capital": "Harare",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Algeria",
+        "capital": "Algiers",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Mozambique",
+        "capital": "Maputo",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Zambia",
+        "capital": "Lusaka",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Angola",
+        "capital": "Luanda",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Morocco",
+        "capital": "Rabat",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Tanzania",
+        "capital": "Dodoma",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Madagascar",
+        "capital": "Antananarivo",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Nigeria",
+        "capital": "Abuja",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Mayotte",
+        "capital": "Mamoudzou",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Cape Verde",
+        "capital": "Praia",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Rwanda",
+        "capital": "Kigali",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Eswatini",
+        "capital": "Mbabane",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Burundi",
+        "capital": "Gitega",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Uganda",
+        "capital": "Kampala",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Namibia",
+        "capital": "Windhoek",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    },
+    {
+        "name": "Ethiopia",
+        "capital": "Addis Ababa",
+        "currency": "",
+        "regions": "Africa",
+        "cities": []
+    }
+]
